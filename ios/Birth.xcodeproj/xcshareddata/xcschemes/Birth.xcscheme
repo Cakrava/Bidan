@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Birth.app"
-               BlueprintName = "Birth"
-               ReferencedContainer = "container:Birth.xcodeproj">
+               BuildableName = "Bidan.app"
+               BlueprintName = "Bidan"
+               ReferencedContainer = "container:Bidan.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "BirthTests.xctest"
-               BlueprintName = "BirthTests"
-               ReferencedContainer = "container:Birth.xcodeproj">
+               BuildableName = "BidanTests.xctest"
+               BlueprintName = "BidanTests"
+               ReferencedContainer = "container:Bidan.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Birth.app"
-            BlueprintName = "Birth"
-            ReferencedContainer = "container:Birth.xcodeproj">
+            BuildableName = "Bidan.app"
+            BlueprintName = "Bidan"
+            ReferencedContainer = "container:Bidan.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Birth.app"
-            BlueprintName = "Birth"
-            ReferencedContainer = "container:Birth.xcodeproj">
+            BuildableName = "Bidan.app"
+            BlueprintName = "Bidan"
+            ReferencedContainer = "container:Bidan.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

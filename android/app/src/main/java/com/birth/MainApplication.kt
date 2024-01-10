@@ -1,4 +1,4 @@
-package com.birth
+package com.Bidan
 
 import android.app.Application
 import com.facebook.react.PackageList
